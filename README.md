@@ -3,7 +3,7 @@
 
 Task Tracker est un projet permettant de suivre et de gérer vos tâches.
 Dans cette tâche, j'ai créé une interface de ligne de commande (CLI) simple pour suivre les tâches, les réalisations et les travaux en cours.
-Ce projet m'a permis de mettre en pratique vos compétences en programmation,
+Ce projet m'a permis de mettre en pratique mes compétences en programmation,
 notamment en travaillant avec le système de fichiers, en gérant les entrées utilisateur et en créant une application CLI simple.
 
 Projet développé en java. 
